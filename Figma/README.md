@@ -1,2 +1,2 @@
-#OUTPUT:
-![My Image](../assets/FigmaLogo.jpg)
+## OUTPUT:
+![Figma Logo](../assets/FigmaLogo.jpg)
