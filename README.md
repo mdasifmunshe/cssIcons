@@ -1,2 +1,2 @@
 # cssLogos
-Icons made with pure CSS
+Logos made with pure CSS
